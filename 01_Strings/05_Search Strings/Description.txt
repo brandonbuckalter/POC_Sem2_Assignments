@@ -1,7 +1,15 @@
+<<<<<<< HEAD
      Have the user enter some text using the input
+=======
+Have the user enter some text using the input
+>>>>>>> 4886b81e3f78b53e95d0981af952b4fa2cc10b59
 function and store in a variable called text
 
 Then find whether or not the word 
 'the' is in the text using the .find method
 
+<<<<<<< HEAD
 Then print whether or not the word is in the string
+=======
+Then print whether or not the word is in the string
+>>>>>>> 4886b81e3f78b53e95d0981af952b4fa2cc10b59
