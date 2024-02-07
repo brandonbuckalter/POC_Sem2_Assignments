@@ -1,0 +1,12 @@
+
+
+import math
+
+for name in dir(math):
+    print(name, end='\t')
+    
+# ceil(), floor(), trunc()
+print(math.ceil(3.6))
+print(math.floor(3.6))
+print(math.trunc(3.6))
+
